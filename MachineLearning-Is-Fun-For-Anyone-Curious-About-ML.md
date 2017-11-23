@@ -1,6 +1,4 @@
-﻿.wiz-todo, .wiz-todo-img {width: 16px; height: 16px; cursor: default; padding: 0 10px 0 2px; vertical-align: -10%;-webkit-user-select: none;} .wiz-todo-label { display: inline-block; padding-top: 7px; padding-bottom: 6px; line-height: 1.5;} .wiz-todo-label-checked { /*text-decoration: line-through;*/ color: #666;} .wiz-todo-label-unchecked {text-decoration: initial;} .wiz-todo-completed-info {padding-left: 44px; display: inline-block; } .wiz-todo-avatar { width:20px; height: 20px; vertical-align: -20%; margin-right:10px; border-radius: 2px;} .wiz-todo-account, .wiz-todo-dt { color: #666; }
-
-> - 原文地址:[machine-learning-is-fun-part-1](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471#.dniejuowp)，原文共分三个部分，笔者在这里合并到一篇文章中，并且对内容进行了重新排版以方便阅读。
+﻿> - 原文地址:[machine-learning-is-fun-part-1](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471#.dniejuowp)，原文共分三个部分，笔者在这里合并到一篇文章中，并且对内容进行了重新排版以方便阅读。
 > 
 - [笔者的数据科学/机器学习知识图谱以及系列文章在Github的Repo，欢迎关注与点赞](https://github.com/wxyyxc1992/datascience-practice-handbook)，笔者之前攒了很多零散的笔记，打算拾掇拾掇整理出来
 

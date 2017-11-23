@@ -1,4 +1,29 @@
 
+# 程序猿的数据科学与机器学习实战手册
+
+本仓库存放了笔者数据科学、人工智能、机器学习、深度学习、自然语言处理等相关的内容：
+
+- 导论
+
+    - [数据科学与人工智能导论](https://parg.co/UrW)
+
+    - [有趣的机器学习](https://parg.co/Urg)
+
+    - [52 个有用的机器学习与预测 API 盘点](https://parg.co/UrF)
+
+- 系列文章
+
+    - [Python 机器学习基础 #Book#](https://parg.co/Ur2)
+
+    - [深度学习课程笔记](https://parg.co/Urz)
+
+    - [深度学习与自然语言处理实践](https://parg.co/bjz)
+
+- 代码片 / 开源项目
+
+    - [Tensorflow](https://parg.co/Urj)
+
+更多相关资料参考[面向程序猿的数据科学与机器学习知识体系及资料合集](https://parg.co/bwn)、[机器学习、深度学习与自然语言处理领域推荐的书籍列表](https://parg.co/bwB)等。
 
 # 关于
 

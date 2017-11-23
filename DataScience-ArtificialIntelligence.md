@@ -1,151 +1,4 @@
-﻿html, body {
-    font-size: 15px;
-}
-
-body {
-    font-family: Helvetica, "Hiragino Sans GB", "微软雅黑", "Microsoft YaHei UI", SimSun, SimHei, arial, sans-serif;
-    line-height: 1.6;
-    margin: 0;
-    padding: 20px 15px;
-    padding: 1.33rem 1rem;
-}
-
-h1, h2, h3, h4, h5, h6 {
-    margin: 20px 0 10px;
-    margin: 1.33rem 0 0.667rem;
-    padding: 0;
-    font-weight: bold;
-}
-
-h1 {
-    font-size: 21px;
-    font-size: 1.4rem;
-}
-
-h2 {
-    font-size: 20px;
-    font-size: 1.33rem;
-}
-
-h3 {
-    font-size: 18px;
-    font-size: 1.2rem;
-}
-
-h4 {
-    font-size: 17px;
-    font-size: 1.13rem;
-}
-
-h5 {
-    font-size: 15px;
-    font-size: 1rem;
-}
-
-h6 {
-    font-size: 15px;
-    font-size: 1rem;
-    color: #777777;
-    margin: 1rem 0;
-}
-
-div, p, ul, ol, dl, li {
-    margin: 0;
-}
-
-blockquote, table, pre, code {
-    margin: 8px 0;
-}
-
-ul, ol {
-    padding-left: 32px;
-    padding-left: 2.13rem;
-}
-
-blockquote {
-    padding: 0 12px;
-    padding: 0 0.8rem;
-}
-
-blockquote > :first-child {
-    margin-top: 0;
-}
-
-blockquote > :last-child {
-    margin-bottom: 0;
-}
-
-img {
-    border: 0;
-    max-width: 100%;
-    height: auto !important;
-    margin: 2px 0;
-}
-
-table {
-    border-collapse: collapse;
-    border: 1px solid #bbbbbb;
-}
-
-td, th {
-    padding: 4px 8px;
-    border-collapse: collapse;
-    border: 1px solid #bbbbbb;
-    height: 28px;
-    word-break: break-all;
-    box-sizing: border-box;
-}
-
-@media only screen and (-webkit-max-device-width: 1024px), only screen and (-o-max-device-width: 1024px), only screen and (max-device-width: 1024px), only screen and (-webkit-min-device-pixel-ratio: 3), only screen and (-o-min-device-pixel-ratio: 3), only screen and (min-device-pixel-ratio: 3) {
-    html, body {
-        font-size: 17px;
-    }
-
-    body {
-        line-height: 1.7;
-        padding: 0.75rem 0.9375rem;
-        color: #353c47;
-    }
-
-    h1 {
-        font-size: 2.125rem;
-    }
-
-    h2 {
-        font-size: 1.875rem;
-    }
-
-    h3 {
-        font-size: 1.625rem;
-    }
-
-    h4 {
-        font-size: 1.375rem;
-    }
-
-    h5 {
-        font-size: 1.125rem;
-    }
-
-    h6 {
-        color: inherit;
-    }
-
-    ul, ol {
-        padding-left: 2.5rem;
-    }
-
-    blockquote {
-        padding: 0 0.9375rem;
-    }
-}
-
-html, body {
-    font-family:Helvetica Neue;
-    font-size:15px;
-    background-color:#FFFFFF;
-}
-[TOC]
+﻿# 数据科学与人工智能导论
 
 
 人工智能发展有三个阶段：计算智能、感知智能和认知智能。
@@ -354,13 +207,13 @@ DataScience是从数据中获取价值的最重要的流行方法之一。
 
 
 对应以上这几种知识获取的途径，我们可以认为常见的人工智能的方向有：
-| 派别                   | 起源     | 擅长算法                          |
-| -------------------- | ------ | ----------------------------- |
-| 符号主义（Symbolists）     | 逻辑学、哲学 | 逆演绎算法（Inverse deduction）      |
-| 联结主义（Connectionists） | 神经科学   | 反向传播算法（Backpropagation）       |
-| 进化主义（Evolutionaries） | 进化生物学  | 基因编程（Genetic programming）     |
-| 贝叶斯派（Bayesians）      | 统计学    | 概率推理（Probabilistic inference） |
-| Analogizer           | 心理学    | 核机器（Kernel machines）          |
+| 派别                       | 起源         | 擅长算法                            |
+| -------------------------- | ------------ | ----------------------------------- |
+| 符号主义（Symbolists）     | 逻辑学、哲学 | 逆演绎算法（Inverse deduction）     |
+| 联结主义（Connectionists） | 神经科学     | 反向传播算法（Backpropagation）     |
+| 进化主义（Evolutionaries） | 进化生物学   | 基因编程（Genetic programming）     |
+| 贝叶斯派（Bayesians）      | 统计学       | 概率推理（Probabilistic inference） |
+| Analogizer                 | 心理学       | 核机器（Kernel machines）           |
 
 
 ## 二十世纪五十年代:推理期
