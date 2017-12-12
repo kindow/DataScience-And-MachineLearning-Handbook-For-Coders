@@ -86,7 +86,7 @@
 
 ### Deep Learning
  - [有趣的机器学习概念纵览：从多元拟合，神经网络到深度学习，给每个感兴趣的人](https://segmentfault.com/a/1190000005746236)
- - [[翻译] 神经网络的直观解释](http://www.hackcv.com/index.php/archives/104/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io):卷积神经网络的讲解非常通俗易懂。
+ - [[翻译] 神经网络的直观解释](http://www.hackcv.com/index.php/archives/104/):卷积神经网络的讲解非常通俗易懂。
  
  - [Deep-Learning-Papers-Reading-Roadmap](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap):为每个对深度学习感兴趣的朋友整理的论文阅读路线图
  
