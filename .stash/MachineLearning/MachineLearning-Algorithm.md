@@ -245,7 +245,7 @@ Much effort is put into what types of weak learners to combine and the ways in w
 
 - [a-tour-of-machine-learning-algorithms](http://machinelearningmastery.com/a-tour-of-machine-learning-algorithms/)
 
-- [史上最全的机器学习资料](https://yq.aliyun.com/articles/43089?utm_source=tuicool&utm_medium=referral)
+- [史上最全的机器学习资料](https://yq.aliyun.com/articles/43089)
 
 ### Blogs & News
 

@@ -154,7 +154,7 @@ Machine Learning即是指能够帮你从数据中寻找到感兴趣的部分而�
 
 - [a-tour-of-machine-learning-algorithms](http://machinelearningmastery.com/a-tour-of-machine-learning-algorithms/)
 
-- [史上最全的机器学习资料](https://yq.aliyun.com/articles/43089?utm_source=tuicool&utm_medium=referral)
+- [史上最全的机器学习资料](https://yq.aliyun.com/articles/43089)
 
 
 

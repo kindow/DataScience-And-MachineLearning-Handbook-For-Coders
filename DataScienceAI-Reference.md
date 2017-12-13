@@ -152,7 +152,7 @@
 ## Nature Language Processing:自然语言处理
 
 ## Deep Learning:深度学习
- - [重磅论文：解析深度卷积神经网络的14种设计模式](http://www.jiqizhixin.com/article/1772?utm_source=tuicool&utm_medium=referral)
+ - [重磅论文：解析深度卷积神经网络的14种设计模式](http://www.jiqizhixin.com/article/1772)
 
 # Application:应用
 
@@ -179,7 +179,7 @@
 - [MLib]()
 ## DeepLearning:深度学习工具集
  - [Evaluation of Deep Learning Toolkits](https://github.com/zer0n/deepframeworks)
- - [代码解析深度学习系统编程模型：TensorFlow vs. CNTK](http://geek.csdn.net/news/detail/62429?utm_source=tuicool&utm_medium=referral)
+ - [代码解析深度学习系统编程模型：TensorFlow vs. CNTK](http://geek.csdn.net/news/detail/62429)
  - [tensorflow-playground](https://github.com/tensorflow/playground):Play with neural networks! 
  ![](http://7xkt0f.com1.z0.glb.clouddn.com/F2E07E37-D3EB-4DEE-962C-21C35EFD6479.png)
  - [dl-docker](https://github.com/saiprashanths/dl-docker):将常用的深度学习工具打包在了一个Docker镜像中
