@@ -47,7 +47,7 @@
 
 > - 原文地址:[machine-learning-is-fun-part-1](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471#.dniejuowp)，原文共分三个部分，笔者在这里合并到一篇文章中，并且对内容进行了重新排版以方便阅读。
 
-> - [笔者的数据科学/机器学习知识图谱以及系列文章在Github的Repo，欢迎关注与点赞](https://github.com/wxyyxc1992/datascience-practice-handbook)，笔者之前攒了很多零散的笔记，打算拾掇拾掇整理出来
+- [笔者的数据科学/机器学习知识图谱以及系列文章在Github的Repo，欢迎关注与点赞](https://github.com/wxyyxc1992/datascience-practice-handbook)，笔者之前攒了很多零散的笔记，打算拾掇拾掇整理出来
 
 
 
@@ -105,9 +105,9 @@
 
 > 这里的算法分类还是很粗浅的，如果要了解更多的细致的分类可以参考：
 
-> - [维基百科](https://en.wikipedia.org/wiki/Machine_learning#Algorithm_types)
+- [维基百科](https://en.wikipedia.org/wiki/Machine_learning#Algorithm_types)
 
-> - [笔者的数据科学与机器学习算法分类](https://github.com/wxyyxc1992/datascience-practice-handbook/blob/master/datascience-machinelearning-algorithms.md) 
+- [笔者的数据科学与机器学习算法分类](https://github.com/wxyyxc1992/datascience-practice-handbook/blob/master/datascience-machinelearning-algorithms.md) 
 
 
 
