@@ -117,7 +117,7 @@ def perplexity(self, docs=None):
     return numpy.exp(log_per / N)
 ```
 
-[toc]
+
 
 # Introduction
 > LDA has been widely used in textual analysis,

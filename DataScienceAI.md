@@ -126,7 +126,7 @@ Machine Learning即是指能够帮你从数据中寻找到感兴趣的部分而�
 - [A Few Useful Things to Know about Machine Learning By Pedro Domingos](http://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf)
 
 - [机器学习温和指南](http://www.csdn.net/article/2015-09-08/2825647#rd?sukey=b0cb5c5b9e50130317c130ba2243b8e573404f264fe1467cde82d02d2529978108ee91bb9a2bbc0d81118e2db77390ca)
-- [机器学习与数据挖掘的学习路线图](http://mp.weixin.qq.com/s?__biz=MzA3MDg0MjgxNQ==&mid=2652389718&idx=1&sn=9f0c3a6f525f4c28a504e7475efc8f02&scene=0#wechat_redirect&utm_source=tuicool&utm_medium=referral)
+- [机器学习与数据挖掘的学习路线图](http://mp.weixin.qq.com/s?__biz=MzA3MDg0MjgxNQ==&mid=2652389718&idx=1&sn=9f0c3a6f525f4c28a504e7475efc8f02&scene=0#wechat_redirect)
 
 
 
